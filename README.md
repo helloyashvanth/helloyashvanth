@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Yashvanth
 
-<!--
-**helloyashvanth/helloyashvanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer — I build with **Angular** & **Spring Boot**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+- Angular  
+
+**Backend**
+- Language: Java
+- Framework: Spring Boot  
+- Database: MySQL
+
+---
+
+## Projects
+
+- **Portfolio** — My personal portfolio website built with Angular.
+  
+  🔗 [Portfolio-Webpage](https://github.com/helloyashvanth/Portfolio-Webpage)
+
+---
+
+## Ask me about
+Full Stack Development · Angular · Spring Boot
+
+---
+
+## How to reach me
+
+- Email: [hello.yashvanth@gmail.com](mailto:hello.yashvanth@gmail.com)  
+- Portfolio: [https://helloyashvanth.github.io/Portfolio-Webpage/](https://helloyashvanth.github.io/Portfolio-Webpage/)  
+- LinkedIn: [Yashvanth T V](https://www.linkedin.com/in/yashvanth-tv/)
+
+---
+
+## Languages & Tools
+
+Java · Angular · Spring Boot · MySQL · Git · GitHub
+
+---
+
+Thank you for visiting my profile — feel free to reach out !
